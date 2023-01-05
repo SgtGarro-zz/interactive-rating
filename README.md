@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 1](./screenshot1.png)
-![Screenshot 2](./screenshot2.png)
-![Screenshot 3](./screenshot3.png)
+![Screenshot 1](./screenshot1.PNG)
+![Screenshot 2](./screenshot2.PNG)
+![Screenshot 3](./screenshot3.PNG)
 
 
 ### Links
